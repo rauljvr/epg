@@ -13,7 +13,7 @@ Or import the project in your IDE as Maven Project and thanks to the Spring Tool
 
 ### ENDPOINTS ###
 
-As an example of the endpoints for testing the RESTful API try these endpoints in a any testing tool for Web services like Postman.
+As an example of the endpoints for testing this RESTful API try these endpoints in an any testing tool for Web services like Postman.
 
 1- "Rent one or several games and calculate the price."
 
@@ -54,6 +54,6 @@ MySQL Server 5+
 
 ### ASSUMPTIONS ###
 
-1.- The start date of the rental is the current date of the system.
+1.- The start date of the rental is always the current date of the system.
 2.- A video game it can only be associated with one type of game.
 3.- I focused on the requeriments demanded, so the CRUD operations of the tables were ommited. I provide the MySQL database script that I used with some inserts included which is in the "db" folder.
