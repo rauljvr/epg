@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: rentalsystem
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: F541U
+Implementation-Vendor-Id: com.testepg
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/rentalsystem
+Created-By: Maven Integration for Eclipse
+

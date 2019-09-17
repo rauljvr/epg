@@ -1,0 +1,17 @@
+com\testepg\rentalsystem\model\TypeEntity.class
+com\testepg\rentalsystem\vo\Rental.class
+com\testepg\rentalsystem\model\UserEntity.class
+com\testepg\rentalsystem\model\GameUserEntity.class
+com\testepg\rentalsystem\repository\GameUserRepository.class
+com\testepg\rentalsystem\service\IRentalService.class
+com\testepg\rentalsystem\model\GameEntity.class
+com\testepg\rentalsystem\Constants.class
+com\testepg\rentalsystem\exceptions\ResourceNotFoundException.class
+com\testepg\rentalsystem\exceptions\RestNotFoundException.class
+com\testepg\rentalsystem\controller\RentalController.class
+com\testepg\rentalsystem\repository\GameRepository.class
+com\testepg\rentalsystem\service\impl\RentalService.class
+com\testepg\rentalsystem\vo\Game.class
+com\testepg\rentalsystem\repository\UserRepository.class
+com\testepg\rentalsystem\RentalsystemApplication.class
+com\testepg\rentalsystem\exceptions\RestException.class
